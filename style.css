@@ -371,7 +371,7 @@ small {
   border: 1px solid #146c54;
 }
 .stats-section {
-  background-image: url('Assets/cover_bg_1.jpg'); 
+  background-image: url('assets/cover_bg_1.jpg'); 
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
